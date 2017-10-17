@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [316.27336260436766, 0.0, 322.17783374980297, 0.0, 313.04173409388903, 217.22576620202807,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: vvbot/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2783753229305521, 0.05730641295817671, 0.003634046914191613, 0.0005679970220087163,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [220.438720703125, 0.0, 322.6538290819444, 0.0, 0.0, 246.02462768554688, 207.69094424345894,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
