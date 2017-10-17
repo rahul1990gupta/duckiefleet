@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [316.45616733570216, 0.0, 304.10460598382065, 0.0, 320.0045460799064, 222.28630203784877,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: tick/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.2596759589816741, 0.05821813966164519, -2.6442174781723977e-05, 3.2578656476038174e-05,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [233.4454803466797, 0.0, 304.71863901161305, 0.0, 0.0, 262.6233825683594,
+    213.86934195266622, 0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
