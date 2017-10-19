@@ -1,0 +1,23 @@
+camera_matrix:
+  cols: 3
+  data: [350.53669950330465, 0.0, 324.6768109958554, 0.0, 348.3206814784707, 223.57018528826157,
+    0.0, 0.0, 1.0]
+  rows: 3
+camera_name: mini/camera_node
+distortion_coefficients:
+  cols: 5
+  data: [-0.301539632781948, 0.06856405039805528, 0.004452521999258725, -0.0012587221594844197,
+    0.0]
+  rows: 1
+distortion_model: plumb_bob
+image_height: 480
+image_width: 640
+projection_matrix:
+  cols: 4
+  data: [246.42422485351562, 0.0, 321.94718796305096, 0.0, 0.0, 286.43115234375, 219.85700641057338,
+    0.0, 0.0, 0.0, 1.0, 0.0]
+  rows: 3
+rectification_matrix:
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+  rows: 3
